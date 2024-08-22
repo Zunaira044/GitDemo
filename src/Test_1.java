@@ -6,6 +6,8 @@ public class Test_1 {
 
 		
 		webdriver driver = new webdriver();
+		
+		System.out.println("hello");
 	}
 
 }
